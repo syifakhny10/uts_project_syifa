@@ -1,4 +1,4 @@
-# LAPORAN UTS INTEROPERABILITAS
+# LAPORAN UTS Pemrograman Perangkat Bergerak
 
 Nama: Syifa Kharisma Nayla
 NIM: 362358302019
